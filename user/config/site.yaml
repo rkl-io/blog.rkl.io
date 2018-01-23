@@ -1,0 +1,24 @@
+title: rkl.io
+default_lang: en
+author:
+  name: 'Romano Kleinwaechter'
+  email: romano.kleinwaechter@gmail.com
+taxonomies:
+  - category
+  - tag
+  - month
+metadata:
+  description: 'Romano Kleinwaechter is a full-time senior software devbeloper located in Berlin Germany. He is an crypto currency enthusiast and a family man.'
+  keywords: 'software, developing, crypto, currencies, hacking, security, web, digital, romano, kleinwaechter'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+#redirects:
+#  /changelog: /blog/the-urban-jungle
+#routes:
+#  /something/else: /blog/focus-and-blur
+#  '/another/one/(.*)': /blog/$1
+blog:
+  route: ''
